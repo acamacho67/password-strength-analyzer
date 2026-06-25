@@ -26,7 +26,7 @@ This project was built as part of a security automation course to demonstrate ho
 ## Requirements
 
 - Python 3.x
-- No external libraries required — uses only built-in Python modules
+- No external libraries required, uses only built-in Python modules
 
 ---
 
