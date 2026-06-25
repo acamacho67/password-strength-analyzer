@@ -100,9 +100,9 @@ Enter a password to analyze: ************
 
 ```
 password-strength-analyzer/
-│
-├── password_strength_analyzer.py   # Main Python script
-└── README.md                       # Project documentation
+
+ password_strength_analyzer.py   # Main Python script
+ README.md                       # Project documentation
 ```
 
 ---
